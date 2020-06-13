@@ -51,6 +51,9 @@ npm install --save react-router-dom
  install react-router from https://www.npmjs.com/package/react-router-dom
  npm install --save react-router-dom
  
+ install react-router-history from https://www.npmjs.com/package/react-router-history
+ npm i react-router-history
+ 
  add .babelrc file to define how webpack will be handle.
  
  add webpack.config.js file to define how webpack will bundle.
