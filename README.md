@@ -1,4 +1,4 @@
-#set up webpack to compile application:
+set up webpack to compile application:
  create package.json file by installing npm from https://docs.npmjs.com/cli/init:
  npm init --yes
 
@@ -27,5 +27,13 @@
 
  install babel register from https://www.npmjs.com/package/@babel/register
  npm install --save-dev @babel/register
-
  
+ install babel loader from https://www.npmjs.com/package/babel-loader
+ npm install -D babel-loader @babel/core @babel/preset-env webpack
+
+
+ add .babelrc file to define how webpack will be handle.
+ 
+ add webpack.config.js file to define how webpack will bundle.
+
+
