@@ -47,7 +47,9 @@ npm install --save react-router-dom
  install react-redux from https://www.npmjs.com/package/react-redux
  npm install --save react-redux
 
- 
+  
+ install react-router from https://www.npmjs.com/package/react-router-dom
+ npm install --save react-router-dom
  
  add .babelrc file to define how webpack will be handle.
  
