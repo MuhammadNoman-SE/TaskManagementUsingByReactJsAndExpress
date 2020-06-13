@@ -31,6 +31,8 @@ set up webpack to compile application:
  install babel loader from https://www.npmjs.com/package/babel-loader
  npm install -D babel-loader @babel/core @babel/preset-env webpack
 
+ install redux from https://www.npmjs.com/package/redux
+ npm install --save redux
 
  add .babelrc file to define how webpack will be handle.
  
