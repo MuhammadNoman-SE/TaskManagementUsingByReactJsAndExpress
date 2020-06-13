@@ -24,6 +24,10 @@ set up webpack to compile application:
 
  install babel preset-react from https://www.npmjs.com/package/@babel/preset-react
  npm install --save-dev @babel/preset-react
+ 
+  install babel preset-react from https://www.npmjs.com/package/react-router-dom
+npm install --save react-router-dom
+ 
 
  install babel register from https://www.npmjs.com/package/@babel/register
  npm install --save-dev @babel/register
