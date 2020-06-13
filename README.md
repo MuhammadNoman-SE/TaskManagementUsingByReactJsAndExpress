@@ -31,7 +31,20 @@ set up webpack to compile application:
  install babel loader from https://www.npmjs.com/package/babel-loader
  npm install -D babel-loader @babel/core @babel/preset-env webpack
 
+ install redux from https://www.npmjs.com/package/redux
+ npm install --save redux
 
+ install react from https://www.npmjs.com/package/react
+ npm install --save react
+ 
+ install react-dom from https://www.npmjs.com/package/react-dom
+ npm install react react-dom
+ 
+ install react-redux from https://www.npmjs.com/package/react-redux
+ npm install --save react-redux
+
+ 
+ 
  add .babelrc file to define how webpack will be handle.
  
  add webpack.config.js file to define how webpack will bundle.
