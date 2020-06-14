@@ -54,6 +54,12 @@ npm install --save react-router-dom
  install react-router-history from https://www.npmjs.com/package/react-router-history
  npm i react-router-history
  
+  install redux logger  from https://www.npmjs.com/package/redux-logger
+npm i --save redux-logge
+ 
+  install redux saga from npmjs.com/package/redux-saga
+ npm i redux-saga
+ 
  add .babelrc file to define how webpack will be handle.
  
  add webpack.config.js file to define how webpack will bundle.
