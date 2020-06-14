@@ -60,6 +60,10 @@ npm i --save redux-logge
   install redux saga from npmjs.com/package/redux-saga
  npm i redux-saga
  
+   install uuid from https://www.npmjs.com/package/uuid
+npm install uuid
+
+ 
  add .babelrc file to define how webpack will be handle.
  
  add webpack.config.js file to define how webpack will bundle.
