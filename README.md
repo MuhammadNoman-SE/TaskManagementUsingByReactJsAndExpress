@@ -62,6 +62,7 @@ npm i --save redux-logge
  
    install uuid from https://www.npmjs.com/package/uuid
 npm install uuid
+npm i react-uuid
 
  
  add .babelrc file to define how webpack will be handle.
